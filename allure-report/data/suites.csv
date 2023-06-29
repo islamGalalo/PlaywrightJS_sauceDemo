@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Jun 27 07:03:51 EET 2023","Tue Jun 27 07:03:55 EET 2023","3571","chromium","","","","","verify user login successfully",""
+"passed","Tue Jun 27 07:03:51 EET 2023","Tue Jun 27 07:03:57 EET 2023","6375","chromium","","","","","verify user login successfully",""
+"passed","Tue Jun 27 07:03:51 EET 2023","Tue Jun 27 07:03:54 EET 2023","2475","chromium","","","","","verify user login successfully",""
